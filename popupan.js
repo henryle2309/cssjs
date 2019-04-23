@@ -1,8 +1,8 @@
 
-	var url_popup = 'https://forgout.com.vn/gioi-thieu-forgout/';
+	var url_popup = 'https://forgout.com.vn/';
 
       //<![CDATA[
-	  // var url_ppp = 'http://bit.ly/1KmPNYe';
+	  // var url_ppp = 'https://forgout.com.vn/gioi-thieu-forgout/';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
